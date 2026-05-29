@@ -1,12 +1,12 @@
 {
   "launcher": {
     "version": "2.5.0",
-    "url": "https://www.dropbox.com/scl/fi/r6h14z9qnzcbd2ovui6jo/nextup.rar?rlkey=06p4swhkqkz1p0xyovyb6n8cr&st=mgap92aj&dl=0",
+    "url": "https://www.dropbox.com/scl/fi/ns5yoqp5s2a1kcyojy0z2/nextup.zip?rlkey=gfiof72tcx3h5op4rmim4vv6w&st=2gudq3wt&dl=0",
     "force_update": false
   },
   "build": {
     "version": 3,
-    "url": "https://www.dropbox.com/scl/fi/r6h14z9qnzcbd2ovui6jo/nextup.rar?rlkey=06p4swhkqkz1p0xyovyb6n8cr&st=mgap92aj&dl=0",
+    "url": "https://www.dropbox.com/scl/fi/ns5yoqp5s2a1kcyojy0z2/nextup.zip?rlkey=gfiof72tcx3h5op4rmim4vv6w&st=2gudq3wt&dl=0",
     "is_active": false,
     "date": "14.01.2026"
   },
